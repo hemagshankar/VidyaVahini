@@ -1,2 +1,2 @@
 # VidyaVahini
-a student commute buddy
+A student commute buddy
